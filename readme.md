@@ -5,3 +5,4 @@
 - 自定义双工流 stream-duplex.js
 - 自定义转换流 stream-transform.js
 - 模拟实现文件可读流 read-stream.js
+- 模拟实现文件可写流 write-stream.js
